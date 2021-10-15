@@ -70,7 +70,7 @@ const Timeline = () => {
             <SectionTitle>About me</SectionTitle>
             <SectionText>
                 I started my journey in the world of computers from an young
-                age, now I’m 26 years old, Pursuing my Computer Science &
+                age, now I’m 23 years old, Pursuing my Computer Science &
                 Engineering Degree in National University of Bangladesh. Web
                 development is my center of interest. I have worked as a
                 front-end web developer for AR Integration and Solution for

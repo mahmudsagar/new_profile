@@ -13,6 +13,7 @@ const Home = () => {
       <Head>
         <title>MAHMUDUL HASAN SAGAR</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link rel="icon" href="/vercel.svg" />
       </Head>
       <Section grid>
         <Hero />

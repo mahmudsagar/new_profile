@@ -46,6 +46,7 @@ const Technologies = () =>  (
                       Experience with <br/>
                       Adobe Photoshop <br/>
                       Figma <br/>
+                      Adobe XD <br/>
                   </ListParagraph>
               </ListContainer>
           </ListItem>
