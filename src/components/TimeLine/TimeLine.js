@@ -69,15 +69,13 @@ const Timeline = () => {
         <Section id={`about`}>
             <SectionTitle>About me</SectionTitle>
             <SectionText>
-                I started my journey in the world of computers from an young
-                age, now I’m 23 years old, Pursuing my Computer Science &
-                Engineering Degree in National University of Bangladesh. Web
-                development is my center of interest. I have worked as a
-                front-end web developer for AR Integration and Solution for
-                almost 2 years. As you'll see, I have 3 years of hands-on
-                experience efficiently coding websites and applications using
-                modern HTML, CSS, and JavaScript. I also know backend tools like
-                Ruby on Rails.
+               Hi there! 👋
+
+I’m a passionate web developer with 3+ years of experience building dynamic and interactive web applications. My journey began with JavaScript 3.5 years ago, and since then, I’ve specialized in Node.js and React, crafting scalable backends and engaging user interfaces.
+
+I love diving into modern tech stacks and have hands-on experience with Express.js, Tailwind CSS, Socket.IO, and even working with OpenAI APIs. I’ve also explored tools like Langchain and Docker to build smarter, more efficient systems.
+
+When I’m not coding, I’m probably brainstorming the next cool idea or learning something new to level up my skills. Let’s create something amazing together! 🚀
             </SectionText>
             <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
                 <>
