@@ -22,6 +22,10 @@ const Technologies = () =>  (
                       CSS3 <br/>
                       Javascript<br/>
                       React.js <br/>
+                      Antd <br/>
+                      Tailwind <br/>
+                      Shadcn <br/>
+  
                   </ListParagraph>
               </ListContainer>
           </ListItem>
@@ -30,23 +34,26 @@ const Technologies = () =>  (
               <ListContainer>
                   <ListTitle>Back End</ListTitle>
                   <ListParagraph>
-                      Experience with <br/>
-                      Ruby on Rails <br/>
-                      Django <br/>
-                      MySQL <br/>
-                      PostGresql <br/>
+                      Experienced with <br/>
+                      Node js <br/>
+                      Fastify <br/>
+                      Mongodb <br/>
+                      Hyperexpress <br/>
+                      Dynamodb <br/>
+                      AWS S3 bucket <br/>
+                      Linux <br/>
+                      Socket io <br/>
                   </ListParagraph>
               </ListContainer>
           </ListItem>
           <ListItem>
               <DiZend size={`3rem`} />
               <ListContainer>
-                  <ListTitle>UI Design Tool</ListTitle>
+                  <ListTitle>AI</ListTitle>
                   <ListParagraph>
-                      Experience with <br/>
-                      Adobe Photoshop <br/>
-                      Figma <br/>
-                      Adobe XD <br/>
+                      Experienced with <br/>
+                      Open ai prompt engineering <br/>
+                      Langchain <br/>
                   </ListParagraph>
               </ListContainer>
           </ListItem>
