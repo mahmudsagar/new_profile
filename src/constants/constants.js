@@ -43,8 +43,7 @@ export const projects = [
 
 export const TimeLineData = [
     { year: 2016, text: "Started Studing Bachelore of Science degree in Computer Science & Engineering" },
-    { year: 2019, text: "Joined AR Integration & Solution LTD" },
-    { year: 2020, text: "Started devloping with React" },
+    { year: 2019, text: "Joined AR Integration & Solution LTD", position: "Junior frontend designer" },
     {
         year: 2021,
         text: "Graduated from college with Bachelore of Science degree in Computer Science & Engineering",
@@ -52,5 +51,26 @@ export const TimeLineData = [
     {
         year: 2021,
         text: "Joind TechForing LTD as Frontend Developer",
+        position: "frontend developer"
+    },
+    {
+        year: 2022,
+        text: "Joined Xpeedstudio",
+        position: "frontend developer"
+    },
+    {
+        year: 2022,
+        text: "Changed position at Xpeedstudio",
+        position: "backend developer"
+    },
+    {
+        year: 2023,
+        text: "Promoted at xpeedstudio",
+        position: "Lead Full-stack developer"
+    },
+    {
+        year: 2024,
+        text: "started as individual contractor at Created by cocoon",
+        position: "Fullstack developer"
     },
 ];
